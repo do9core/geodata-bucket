@@ -2,7 +2,7 @@
 
 This is a bucket for [Scoop](https://scoop.sh/) to manage GeoIP and GeoSite files for sing-box.
 
-File sources: 
+File sources:
 
 - [GeoIP](https://github.com/soffchen/sing-geoip)
 - [GeoSite](https://github.com/soffchen/sing-geosite)
