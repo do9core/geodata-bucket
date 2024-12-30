@@ -1,9 +1,9 @@
 {
-    "version": "202412290021",
+    "version": "202412300019",
     "description": "GeoIP database for sing-box",
     "homepage": "https://github.com/soffchen/sing-geoip",
-    "url": "https://github.com/soffchen/sing-geoip/releases/download/202412290021/geoip.db",
-    "hash": "45c17eafb7da653557405b6b61fd1c3720524c2954eb905943bd084c1e76c147",
+    "url": "https://github.com/soffchen/sing-geoip/releases/download/202412300019/geoip.db",
+    "hash": "4f7bf4b3bb5cd4ac1e73521ea34486e3c374542d282b246b7db803dec806399b",
     "license": "GPL-3.0-or-later",
     "checkver": {
         "github": "https://github.com/soffchen/sing-geoip"
