@@ -1,9 +1,9 @@
 {
-    "version": "202506202213",
+    "version": "202506212212",
     "description": "GeoSite database for sing-box",
     "homepage": "https://github.com/soffchen/sing-geosite",
-    "url": "https://github.com/soffchen/sing-geosite/releases/download/202506202213/geosite.db",
-    "hash": "08e50c97402aa03fddce44131c83965d878938faee4ae28c4f3992c3c5888148",
+    "url": "https://github.com/soffchen/sing-geosite/releases/download/202506212212/geosite.db",
+    "hash": "a1a57b9983306dc2e67ee07ce090e413775adea1436f6a2d2e92a21a12b1912a",
     "license": "GPL-3.0-or-later",
     "checkver": {
         "github": "https://github.com/soffchen/sing-geosite"
